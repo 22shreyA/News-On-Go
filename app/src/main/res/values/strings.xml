@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">News-On-Go</string>
+    <string name="news_line">News-On-Go</string>
+    <string name="home">Home</string>
+    <string name="sports">Sports</string>
+    <string name="tech">Technology</string>
+    <string name="health">Health</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="science">Science</string>
+    <string name="mainHeading">Main heading display here</string>
+    <string name="authorname">by Shreya</string>
+</resources>
